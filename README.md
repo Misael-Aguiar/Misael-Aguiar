@@ -1,8 +1,4 @@
-<table align="center" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#6a11cb">
 
-<tr bgcolor="#6a11cb">
-  <td width="8" bgcolor="#6a11cb"></td>
-  <td bgcolor="#6a11cb">
 
 <div align="center">
 
@@ -21,7 +17,7 @@
 
 </div>
 <p align="center"><h3 align="center">
-🚀 Sobre mim
+Sobre mim
 </h3></p>
 Sou estudante de Desenvolvimento de Sistemas, apaixonado por resolver problemas com código e construir aplicações completas — do banco de dados à interface. Gosto de aprender novas linguagens e frameworks e estou sempre em busca de novos desafios técnicos.
 
@@ -29,7 +25,7 @@ Sou estudante de Desenvolvimento de Sistemas, apaixonado por resolver problemas 
 
 <div align="center">
 
-### 🛠️ Tecnologias
+###  Tecnologias
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,c,java,html,css,js,mysql,git,github" />
 
@@ -39,7 +35,7 @@ Sou estudante de Desenvolvimento de Sistemas, apaixonado por resolver problemas 
 
 <div align="center">
 
-### 📊 Estatísticas do perfil
+### Estatísticas do perfil
 
 <img src="https://github-readme-stats.vercel.app/api?username=Misael-Aguiar&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Misael-Aguiar&theme=tokyonight&hide_border=true" height="165" />
@@ -50,29 +46,14 @@ Sou estudante de Desenvolvimento de Sistemas, apaixonado por resolver problemas 
 
 <br>
 
-<div align="center">
-
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-misael-7a3934352)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulomisaelaguiar@gmail.com)
-
-</div>
-
 <br>
 
 <div align="center">
 
-💜 **Obrigado por visitar meu perfil!**
+💜 **Obrigado por visitar meu perfil!** 💜
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
 
-  </td>
-  <td width="8" bgcolor="#43e97b"></td>
-</tr>
-<tr>
-  <td colspan="3" height="8" bgcolor="#43e97b"></td>
-</tr>
-</table>
+
