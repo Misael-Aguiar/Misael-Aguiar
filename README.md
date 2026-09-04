@@ -20,9 +20,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulomisaelaguiar@gmail.com)
 
 </div>
-<p align="center">
-### 🚀 Sobre mim
-</p>
+<p align="center"><h3>
+🚀 Sobre mim
+</h3></p>
 Sou estudante de Desenvolvimento de Sistemas, apaixonado por resolver problemas com código e construir aplicações completas — do banco de dados à interface. Gosto de aprender novas linguagens e frameworks e estou sempre em busca de novos desafios técnicos.
 
 <br>
