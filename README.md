@@ -20,7 +20,7 @@ Sou estudante de Desenvolvimento de Sistemas, apaixonado por resolver problemas 
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,c,java,js,php,html,css,mysql,arduino,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,c,java,js,html,css,mysql,linux,git,github" />
 </p>
 
 ---
