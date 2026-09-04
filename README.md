@@ -1,7 +1,5 @@
 <table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-  <td colspan="3" height="8" bgcolor="#6a11cb"></td>
-</tr>
+
 <tr>
   <td width="8" bgcolor="#6a11cb"></td>
   <td>
