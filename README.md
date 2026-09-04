@@ -4,9 +4,6 @@
 
 </div>
 
-<table align="center" width="100%">
-<tr><td>
-
 <div align="center">
 
 <a href="https://git.io/typing-svg">
@@ -49,9 +46,6 @@ Sou estudante de Desenvolvimento de Sistemas, apaixonado por resolver problemas 
 💜 **Obrigado por visitar meu perfil!**
 
 </div>
-
-</td></tr>
-</table>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
