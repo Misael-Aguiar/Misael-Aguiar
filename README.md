@@ -50,7 +50,7 @@ Sou estudante de Desenvolvimento de Sistemas, apaixonado por resolver problemas 
 
 <div align="center">
 
-💜 **Obrigado por visitar meu perfil!** 💜
+💜 **Obrigado por visitar!** 💜
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
