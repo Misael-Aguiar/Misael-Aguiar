@@ -40,7 +40,7 @@ Sou estudante de Desenvolvimento de Sistemas, apaixonado por resolver problemas 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Misael-Aguiar&theme=tokyonight&hide_border=true" height="165" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Misael-Aguiar&theme=tokyo-night&hide_border=true" width="90%" />
+
 
 </div>
 
