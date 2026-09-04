@@ -1,4 +1,4 @@
-<table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
+<table align="center" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#6a11cb">
 
 <tr bgcolor="#6a11cb">
   <td width="8" bgcolor="#6a11cb"></td>
@@ -13,14 +13,18 @@
 </a>
 
 </div>
+<div align="center">
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-misael-7a3934352)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulomisaelaguiar@gmail.com)
+
+</div>
 
 ### 🚀 Sobre mim
 
 Sou estudante de Desenvolvimento de Sistemas, apaixonado por resolver problemas com código e construir aplicações completas — do banco de dados à interface. Gosto de aprender novas linguagens e frameworks e estou sempre em busca de novos desafios técnicos.
-
-- 🔭 Atualmente aprofundando conhecimentos em **C# / ASP.NET Core**
-- 🌱 Estudando arquitetura e boas práticas de back-end
-- ☕ Café é meu combustível para programar
 
 <br>
 
