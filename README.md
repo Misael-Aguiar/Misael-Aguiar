@@ -1,8 +1,8 @@
 <table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
 
-<tr>
+<tr bgcolor="#6a11cb">
   <td width="8" bgcolor="#6a11cb"></td>
-  <td>
+  <td bgcolor="#6a11cb">
 
 <div align="center">
 
