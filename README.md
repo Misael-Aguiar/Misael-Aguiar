@@ -12,7 +12,7 @@
 
 </div>
 <div align="center">
-### 🚀 Sobre mim
+🚀 Sobre mim
 </div>
 Sou estudante de Desenvolvimento de Sistemas, apaixonado por resolver problemas com código e construir aplicações completas — do banco de dados à interface. Gosto de aprender novas linguagens e frameworks e estou sempre em busca de novos desafios.
 
